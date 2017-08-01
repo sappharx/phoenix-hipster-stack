@@ -1,6 +1,6 @@
 # Phoenix hipster stack!
-* [Phoenix] (http://www.phoenixframework.org/)
-* [React] (https://facebook.github.io/react/)
+* [Phoenix](http://www.phoenixframework.org/)
+* [React](https://facebook.github.io/react/)
 * [Relay](https://facebook.github.io/relay/)
 * [GraphQL](https://github.com/facebook/graphql)
 * [RethinkDB](https://www.rethinkdb.com/)
@@ -71,7 +71,7 @@ MyAwesomePrompt> MIX_ENV=prod PORT=4000 mix phoenix.server
 ```
 
 
-###Used resourses
+### Used resourses
 * [updated-phoenix-webpack-react-setup](http://mikker.github.io/2016/02/04/updated-phoenix-webpack-react-setup.html)
 * GraphQL & RethinkDB
   * [GraphQL-Elixir](https://github.com/joshprice/graphql-elixir)
